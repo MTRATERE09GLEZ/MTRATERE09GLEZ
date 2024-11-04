@@ -1,4 +1,4 @@
--<portada Tere.png>
+-<imagen origen "portada Tere".png>
 -
 -
 -
