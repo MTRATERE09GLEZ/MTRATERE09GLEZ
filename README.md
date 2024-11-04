@@ -2,7 +2,7 @@
 -
 -
 -
-- 👋 Hi, I’m Tersa González
+- 👋 Hi, I’m Teresa González
 - 👀 I’m interested conocer las nuevas herramientas digitales y la IA
 
 
